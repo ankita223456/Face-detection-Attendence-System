@@ -104,20 +104,20 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.4c58e19e87a9dd1b1dfd.module.css" />
 
 
-  <title>Automatic__Attendence__System/README.md at main · dattasoru12/Automatic__Attendence__System · GitHub</title>
+  <title>Automatic__Attendence__System/Project_Default.xml at main · dattasoru12/Automatic__Attendence__System · GitHub</title>
 
 
 
   <meta name="route-pattern" content="/:user_id/:repository/blob/*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:78b9be64-8536-f93a-5ff7-69a181402ea0">
+  <meta name="fetch-nonce" content="v2:a70c3f2d-2d78-5d4f-691b-59bf6d479b2c">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="8E07:134C64:562BB7:736C31:687B5AAE" data-pjax-transient="true"/><meta name="html-safe-nonce" content="1f47a08c9c8a5db7ab877e903c011d4a4e321e9f0df1fdbea3487411aa1eb2d4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kYXR0YXNvcnUxMi9BdXRvbWF0aWNfX0F0dGVuZGVuY2VfX1N5c3RlbSIsInJlcXVlc3RfaWQiOiI4RTA3OjEzNEM2NDo1NjJCQjc6NzM2QzMxOjY4N0I1QUFFIiwidmlzaXRvcl9pZCI6IjUwMTYwNzY1OTE0NjU5NzI3MTMiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJjZW50cmFsaW5kaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="b62bda516ff15090d2764b09cc17e8e589d574923f27e1f5d8355be029f97c16" data-pjax-transient="true"/>
+  <meta name="request-id" content="8E07:134C64:5628A5:736850:687B5AA6" data-pjax-transient="true"/><meta name="html-safe-nonce" content="1f47a08c9c8a5db7ab877e903c011d4a4e321e9f0df1fdbea3487411aa1eb2d4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kYXR0YXNvcnUxMi9BdXRvbWF0aWNfX0F0dGVuZGVuY2VfX1N5c3RlbSIsInJlcXVlc3RfaWQiOiI4RTA3OjEzNEM2NDo1NjI4QTU6NzM2ODUwOjY4N0I1QUE2IiwidmlzaXRvcl9pZCI6IjUwMTYwNzY1OTE0NjU5NzI3MTMiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJjZW50cmFsaW5kaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="82266e6f9c68629ba941bf2b87ee3cb9cec713e9770fadeb996f125f672ef322" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:824690615" data-turbo-transient>
@@ -154,10 +154,10 @@
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml" />
 
-      <meta name="twitter:image" content="https://opengraph.githubassets.com/087dd765d3e071a37b5d98c0eefdbc53e42ccae7f06443e85be877118b1ca7e0/dattasoru12/Automatic__Attendence__System" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Automatic__Attendence__System/README.md at main · dattasoru12/Automatic__Attendence__System" /><meta name="twitter:description" content="Contribute to dattasoru12/Automatic__Attendence__System development by creating an account on GitHub." />
-  <meta property="og:image" content="https://opengraph.githubassets.com/087dd765d3e071a37b5d98c0eefdbc53e42ccae7f06443e85be877118b1ca7e0/dattasoru12/Automatic__Attendence__System" /><meta property="og:image:alt" content="Contribute to dattasoru12/Automatic__Attendence__System development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Automatic__Attendence__System/README.md at main · dattasoru12/Automatic__Attendence__System" /><meta property="og:url" content="https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md" /><meta property="og:description" content="Contribute to dattasoru12/Automatic__Attendence__System development by creating an account on GitHub." />
+      <meta name="twitter:image" content="https://opengraph.githubassets.com/087dd765d3e071a37b5d98c0eefdbc53e42ccae7f06443e85be877118b1ca7e0/dattasoru12/Automatic__Attendence__System" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Automatic__Attendence__System/Project_Default.xml at main · dattasoru12/Automatic__Attendence__System" /><meta name="twitter:description" content="Contribute to dattasoru12/Automatic__Attendence__System development by creating an account on GitHub." />
+  <meta property="og:image" content="https://opengraph.githubassets.com/087dd765d3e071a37b5d98c0eefdbc53e42ccae7f06443e85be877118b1ca7e0/dattasoru12/Automatic__Attendence__System" /><meta property="og:image:alt" content="Contribute to dattasoru12/Automatic__Attendence__System development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Automatic__Attendence__System/Project_Default.xml at main · dattasoru12/Automatic__Attendence__System" /><meta property="og:url" content="https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml" /><meta property="og:description" content="Contribute to dattasoru12/Automatic__Attendence__System development by creating an account on GitHub." />
   
 
 
@@ -283,19 +283,19 @@
 
       <div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
           <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdattasoru12%2FAutomatic__Attendence__System%2Fblob%2Fmain%2FREADME.md"
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdattasoru12%2FAutomatic__Attendence__System%2Fblob%2Fmain%2FProject_Default.xml"
             class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f3341f96af211c4775bb5e70c6214bcefb63760d0eac657fb6a38564f24ebbf8"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d24dccd4abe723a4ada0c7234a7c10afc5dcbba9f4e3c28b5735cea04a797881"
             data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
           >
             Sign in
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-dd7dd963-7cf6-46e7-a17d-9d59dbaa68e2" aria-labelledby="tooltip-60bdc92f-75bf-4928-8c41-04dd335c86d7" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-c2750992-66d2-4a02-a968-2c87fba08f05" aria-labelledby="tooltip-f0c038f9-2a88-4e17-a30a-3ce2a8676320" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-60bdc92f-75bf-4928-8c41-04dd335c86d7" for="icon-button-dd7dd963-7cf6-46e7-a17d-9d59dbaa68e2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-f0c038f9-2a88-4e17-a30a-3ce2a8676320" for="icon-button-c2750992-66d2-4a02-a968-2c87fba08f05" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_document-metadata_document-metadata_ts-ui_packages_promise-with-resolvers-polyfil-40d47c-2b0274d4149e.js" defer="defer"></script>
@@ -969,7 +969,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:dattasoru12/Automatic__Attendence__System" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="kXdYjUa87HKJW5c6NGTuAHiilpPUl6Z8l4EFRGXrocJ-hXr96QIlfaDLmmh0AmKR18s6Xvq9PUa-RPSbv188og" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="dattasoru12/Automatic__Attendence__System" data-current-org="" data-current-owner="dattasoru12" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:dattasoru12/Automatic__Attendence__System" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="phai8wj7sRxil7jOyBop-KEuSfCE3cMMqaWFSSXBtv48-viF6V7zS9zcQxv28yOhS_MvUtn8plQsCz5eDHCWSw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="dattasoru12/Automatic__Attendence__System" data-current-org="" data-current-owner="dattasoru12" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -1033,7 +1033,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-74321ff5-6b0e-4fa9-8460-73e6576499ae" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-7c5eaaa8-78dc-4368-9a67-2e46630c4f09" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1271,7 +1271,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-74321ff5-6b0e-4fa9-8460-73e6576499ae" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-7c5eaaa8-78dc-4368-9a67-2e46630c4f09" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1312,7 +1312,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="6NUELRKoS/kK4DkYsylwU90L1sGLP+hSQWeTNjfpxO4UIWJeQCU7qFfiijYuEpq17vuImGIKqxJLd5vjdlFM1Q==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="apKrFlrWcmkF1X/22hQvLRXv/MrV9rh66lqMRbJkmumWZs1lCFsCOFjXzNhHL8XLJh+ikzzD+zrgSoSQ89wS0g==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1350,7 +1350,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="GpvI5LLhKtQS7+oiskgQNBI8EqBIz51oQj9+r02fY1Ktyq4xDRQVJtBQJ4RKl/fx6rGdvJsVBJ4+FO1Ad/WoAg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="NesHphZ4y1oTv1NHundfvHztbjFttLu4zV1BY6H7ineCumFzqY30qNEAnuFCqLh5hGDhLb5uIk6xdtKMm5FBJw==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1368,7 +1368,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="1MemYjrGTD+KIILnpXaZEyo32RJR9Z09lQSy0oKc/gw0Y1tSTdd2tL8raCR6AnaRpzpJc402sfzUYtnQz7jHkQ==" />
+              <input type="hidden" data-csrf="true" value="LSFtCswrfI36Y5k4eHR1niPGLyupEkDBsJNh9Aw2F8bNhZA6uzpGBs9oc/unAJocrsu/SnXRbADx9Qr2QRIuWw==" />
             </auto-check>
           </div>
 
@@ -1410,10 +1410,10 @@
 
             <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
               <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdattasoru12%2FAutomatic__Attendence__System%2Fblob%2Fmain%2FREADME.md"
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdattasoru12%2FAutomatic__Attendence__System%2Fblob%2Fmain%2FProject_Default.xml"
                 class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1"
                 style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f3341f96af211c4775bb5e70c6214bcefb63760d0eac657fb6a38564f24ebbf8"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d24dccd4abe723a4ada0c7234a7c10afc5dcbba9f4e3c28b5735cea04a797881"
                 data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
               >
                 Sign in
@@ -1422,7 +1422,7 @@
 
               <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=dattasoru12%2FAutomatic__Attendence__System"
                 class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f3341f96af211c4775bb5e70c6214bcefb63760d0eac657fb6a38564f24ebbf8"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d24dccd4abe723a4ada0c7234a7c10afc5dcbba9f4e3c28b5735cea04a797881"
                 data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
               >
                 Sign up
@@ -1430,10 +1430,10 @@
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-9a7193b2-c85e-4b37-bd76-701dc12a3111" aria-labelledby="tooltip-6de0a51a-4d7a-41c5-986f-7b837c1802b1" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-3f1ae1cd-cf10-4ad7-94f6-b03290767994" aria-labelledby="tooltip-8beb9ca8-f7d0-4629-bf0c-7bbe48b8de62" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-6de0a51a-4d7a-41c5-986f-7b837c1802b1" for="icon-button-9a7193b2-c85e-4b37-bd76-701dc12a3111" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-8beb9ca8-f7d0-4629-bf0c-7bbe48b8de62" for="icon-button-3f1ae1cd-cf10-4ad7-94f6-b03290767994" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.47f1598729334a521d2a.module.css" />
@@ -1470,10 +1470,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-045afbd6-c8ed-468f-a3b0-af3c85b87fc8" aria-labelledby="tooltip-918e5ef9-e536-417e-af68-a907f31946bc" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-4984354e-ae1a-465b-b700-00407b812e67" aria-labelledby="tooltip-cc5e1e20-12de-421c-85f6-2a64897d3e21" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-918e5ef9-e536-417e-af68-a907f31946bc" for="icon-button-045afbd6-c8ed-468f-a3b0-af3c85b87fc8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-cc5e1e20-12de-421c-85f6-2a64897d3e21" for="icon-button-4984354e-ae1a-465b-b700-00407b812e67" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1571,15 +1571,15 @@
       
 
   <li>
-            <a href="/login?return_to=%2Fdattasoru12%2FAutomatic__Attendence__System" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b78c02c2c05cd7069a6cfa27ecc830f8366e6774980913abdf4e2647e1c7f058" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2Fdattasoru12%2FAutomatic__Attendence__System" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="757afdb0fa7c7d8f8e2dc820ca6510c4ee0b3c192403c217d4c8fc61159354a8" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-5bb526b0-9460-42e4-986c-2211ca211d37" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-179e92dd-e33e-4b5a-8aaf-61a2ca25cc20" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fdattasoru12%2FAutomatic__Attendence__System" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:824690615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3169891089b05fe4e949f37bb84084c8654432a54ee7b76e484bf6bc1a2068df" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fdattasoru12%2FAutomatic__Attendence__System" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:824690615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d58b48022592e5fef86c7d05ad0bfcba15518385032f754e7b95a259febf5fb1" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1588,7 +1588,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fdattasoru12%2FAutomatic__Attendence__System" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:824690615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8d06177d838abef6a4728a5f66faf26b6ce9fce76b6b9ac597e976637dfa21d2" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fdattasoru12%2FAutomatic__Attendence__System" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:824690615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a5fd33fc400ab84a1f304b2cbc15f12d4a001e0f0c4bb1f52da4a93a16a2168c" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1675,7 +1675,7 @@
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/dattasoru12/Automatic__Attendence__System/security/overall-count" accept="text/fragment+html" data-nonce="v2:78b9be64-8536-f93a-5ff7-69a181402ea0" data-view-component="true">
+          <include-fragment src="/dattasoru12/Automatic__Attendence__System/security/overall-count" accept="text/fragment+html" data-nonce="v2:a70c3f2d-2d78-5d4f-691b-59bf6d479b2c" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1709,22 +1709,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-button" popovertarget="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-overlay" aria-controls="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-list" aria-haspopup="true" aria-labelledby="tooltip-96d6dd63-1676-41b9-aafb-37512c4b78b8" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-578ae9a1-db09-4191-b333-77486721231b-button" popovertarget="action-menu-578ae9a1-db09-4191-b333-77486721231b-overlay" aria-controls="action-menu-578ae9a1-db09-4191-b333-77486721231b-list" aria-haspopup="true" aria-labelledby="tooltip-b8c8b92e-4aae-423a-a55a-587a50af8b90" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-96d6dd63-1676-41b9-aafb-37512c4b78b8" for="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-b8c8b92e-4aae-423a-a55a-587a50af8b90" for="action-menu-578ae9a1-db09-4191-b333-77486721231b-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-overlay" anchor="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-578ae9a1-db09-4191-b333-77486721231b-overlay" anchor="action-menu-578ae9a1-db09-4191-b333-77486721231b-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-button" id="action-menu-ddd3b4d0-1ed3-4335-b76c-85d2fbbb44be-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-578ae9a1-db09-4191-b333-77486721231b-button" id="action-menu-578ae9a1-db09-4191-b333-77486721231b-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-6a5c2eb9-a3d4-4f2c-a01b-a96c66401fd3" href="/dattasoru12/Automatic__Attendence__System" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-693de6d8-58f8-4d19-b430-9c9efd098f0b" href="/dattasoru12/Automatic__Attendence__System" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1740,7 +1740,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-835e6ddb-f6ba-41fb-96b1-a3d67dbc2f52" href="/dattasoru12/Automatic__Attendence__System/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-eb67869e-8e18-47b9-a1c2-69686c4714c2" href="/dattasoru12/Automatic__Attendence__System/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1756,7 +1756,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-d4f61264-1ee0-4a9e-85c6-b93471052386" href="/dattasoru12/Automatic__Attendence__System/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-94e6bd55-7a8f-4543-9be7-6a8f4d160d44" href="/dattasoru12/Automatic__Attendence__System/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1772,7 +1772,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-a3c2fae2-9d69-4435-9f0b-35553559bb5e" href="/dattasoru12/Automatic__Attendence__System/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-896f8424-3355-4f67-b7bf-f2a6664ae9c4" href="/dattasoru12/Automatic__Attendence__System/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1788,7 +1788,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-639e275d-be17-441b-9d63-8ab4fb547b64" href="/dattasoru12/Automatic__Attendence__System/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-83930dbf-de10-44be-ab1c-4ed08d2d4bfe" href="/dattasoru12/Automatic__Attendence__System/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1804,7 +1804,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-34e19377-fa62-4ccc-9680-9c405596b610" href="/dattasoru12/Automatic__Attendence__System/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9a1c3503-39f5-40db-a439-1c5a15ab858f" href="/dattasoru12/Automatic__Attendence__System/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1820,7 +1820,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-2930a96c-e97c-43ae-b1d9-3d12c759af9d" href="/dattasoru12/Automatic__Attendence__System/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c056eeb5-309a-4fda-b64c-baceea9e06d9" href="/dattasoru12/Automatic__Attendence__System/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1868,7 +1868,7 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/dattasoru12/Automatic__Attendence__System/blob/main/README.md"
+  initial-path="/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml"
     style="display: block; min-height: calc(100vh - 64px);"
   data-attempted-ssr="false"
   data-ssr="false"
@@ -1878,7 +1878,7 @@
   data-react-profiling="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"Attendence.csv","path":"Attendence.csv","contentType":"file"},{"name":"Attendence.py","path":"Attendence.py","contentType":"file"},{"name":"Project_Default.xml","path":"Project_Default.xml","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"Souramita_Project_Attendence.iml","path":"Souramita_Project_Attendence.iml","contentType":"file"},{"name":"misc.xml","path":"misc.xml","contentType":"file"},{"name":"modules.xml","path":"modules.xml","contentType":"file"},{"name":"profiles_settings.xml","path":"profiles_settings.xml","contentType":"file"},{"name":"workspace.xml","path":"workspace.xml","contentType":"file"}],"totalCount":10}},"fileTreeProcessingTime":2.864895,"foldersToFetch":[],"incompleteFileTree":false,"repo":{"id":824690615,"defaultBranch":"main","name":"Automatic__Attendence__System","ownerLogin":"dattasoru12","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-07-05T17:41:58.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/152767430?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1720201319.0","canEdit":false,"refType":"branch","currentOid":"4149536f12e887b4c935cfd7428efdb8220805cb"},"path":"README.md","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/dattasoru12/Automatic__Attendence__System/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"README.md","displayUrl":"https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/README.md?raw=true","headerInfo":{"blobSize":"31 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"9bbec26","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fdattasoru12%2FAutomatic__Attendence__System%2Fblob%2Fmain%2FREADME.md","isCSV":false,"isRichtext":true,"toc":[{"level":1,"text":"Automatic__Attendence__System","anchor":"automatic__attendence__system","htmlText":"Automatic__Attendence__System"}],"lineInfo":{"truncatedLoc":"1","truncatedSloc":"1"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Markdown","languageID":222,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/dattasoru12/Automatic__Attendence__System/blob/main/README.md","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/dattasoru12/Automatic__Attendence__System/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/dattasoru12/Automatic__Attendence__System/raw/refs/heads/main/README.md","renderImageOrRaw":false,"richText":"\u003carticle class=\"markdown-body entry-content container-lg\" itemprop=\"text\"\u003e\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch1 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eAutomatic__Attendence__System\u003c/h1\u003e\u003ca id=\"user-content-automatic__attendence__system\" class=\"anchor\" aria-label=\"Permalink: Automatic__Attendence__System\" href=\"#automatic__attendence__system\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003c/article\u003e","renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":true,"not_analyzed":false,"symbols":[{"name":"Automatic__Attendence__System","kind":"section_1","ident_start":2,"ident_end":31,"extent_start":0,"extent_end":31,"fully_qualified_name":"Automatic__Attendence__System","ident_utf16":{"start":{"line_number":0,"utf16_col":2},"end":{"line_number":1,"utf16_col":0}},"extent_utf16":{"start":{"line_number":0,"utf16_col":0},"end":{"line_number":1,"utf16_col":0}}}]}},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"isMarketplaceEnabled":true,"csrf_tokens":{"/dattasoru12/Automatic__Attendence__System/branches":{"post":"cqlSo2A_B_qs6xHcslftcKsGSj0mqu7Ce31Ei31rEloglqkQiNomI6LEnI3JietBl8vsS9R0gc_RsVapIzhgpQ"},"/repos/preferences":{"post":"CjYMIFjTgu8Eu2XLlzZvigC-ucK4AkNjVIiv4P9Ij9Ycx-5TIGJQFgX667npXPmlU1IF4THfulva3rE90bzBMw"}}},"title":"Automatic__Attendence__System/README.md at main · dattasoru12/Automatic__Attendence__System","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-263cab1760dd.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-41d93d549163.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"accessible_code_button":true}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"Attendence.csv","path":"Attendence.csv","contentType":"file"},{"name":"Attendence.py","path":"Attendence.py","contentType":"file"},{"name":"Project_Default.xml","path":"Project_Default.xml","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"Souramita_Project_Attendence.iml","path":"Souramita_Project_Attendence.iml","contentType":"file"},{"name":"misc.xml","path":"misc.xml","contentType":"file"},{"name":"modules.xml","path":"modules.xml","contentType":"file"},{"name":"profiles_settings.xml","path":"profiles_settings.xml","contentType":"file"},{"name":"workspace.xml","path":"workspace.xml","contentType":"file"}],"totalCount":10}},"fileTreeProcessingTime":3.232771,"foldersToFetch":[],"incompleteFileTree":false,"repo":{"id":824690615,"defaultBranch":"main","name":"Automatic__Attendence__System","ownerLogin":"dattasoru12","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-07-05T17:41:58.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/152767430?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1720201319.0","canEdit":false,"refType":"branch","currentOid":"4149536f12e887b4c935cfd7428efdb8220805cb"},"path":"Project_Default.xml","currentUser":null,"blob":{"rawLines":["\u003ccomponent name=\"InspectionProjectProfileManager\"\u003e","  \u003cprofile version=\"1.0\"\u003e","    \u003coption name=\"myName\" value=\"Project Default\" /\u003e","    \u003cinspection_tool class=\"PyUnresolvedReferencesInspection\" enabled=\"true\" level=\"WARNING\" enabled_by_default=\"true\"\u003e","      \u003coption name=\"ignoredIdentifiers\"\u003e","        \u003clist\u003e","          \u003coption value=\"streamlit.beta_columns\" /\u003e","          \u003coption value=\"extract.find_urls\" /\u003e","          \u003coption value=\"helper.most_busy_users\" /\u003e","          \u003coption value=\"face_recognition\" /\u003e","        \u003c/list\u003e","      \u003c/option\u003e","    \u003c/inspection_tool\u003e","  \u003c/profile\u003e","\u003c/component\u003e"],"stylingDirectives":[[[1,10,"pl-ent"],[11,15,"pl-e"],[16,49,"pl-s"],[16,17,"pl-pds"],[48,49,"pl-pds"]],[[3,10,"pl-ent"],[11,18,"pl-e"],[19,24,"pl-s"],[19,20,"pl-pds"],[23,24,"pl-pds"]],[[5,11,"pl-ent"],[12,16,"pl-e"],[17,25,"pl-s"],[17,18,"pl-pds"],[24,25,"pl-pds"],[26,31,"pl-e"],[32,49,"pl-s"],[32,33,"pl-pds"],[48,49,"pl-pds"]],[[5,20,"pl-ent"],[21,26,"pl-e"],[27,61,"pl-s"],[27,28,"pl-pds"],[60,61,"pl-pds"],[62,69,"pl-e"],[70,76,"pl-s"],[70,71,"pl-pds"],[75,76,"pl-pds"],[77,82,"pl-e"],[83,92,"pl-s"],[83,84,"pl-pds"],[91,92,"pl-pds"],[93,111,"pl-e"],[112,118,"pl-s"],[112,113,"pl-pds"],[117,118,"pl-pds"]],[[7,13,"pl-ent"],[14,18,"pl-e"],[19,39,"pl-s"],[19,20,"pl-pds"],[38,39,"pl-pds"]],[[9,13,"pl-ent"]],[[11,17,"pl-ent"],[18,23,"pl-e"],[24,48,"pl-s"],[24,25,"pl-pds"],[47,48,"pl-pds"]],[[11,17,"pl-ent"],[18,23,"pl-e"],[24,43,"pl-s"],[24,25,"pl-pds"],[42,43,"pl-pds"]],[[11,17,"pl-ent"],[18,23,"pl-e"],[24,48,"pl-s"],[24,25,"pl-pds"],[47,48,"pl-pds"]],[[11,17,"pl-ent"],[18,23,"pl-e"],[24,42,"pl-s"],[24,25,"pl-pds"],[41,42,"pl-pds"]],[[10,14,"pl-ent"]],[[8,14,"pl-ent"]],[[6,21,"pl-ent"]],[[4,11,"pl-ent"]],[[2,11,"pl-ent"]]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/dattasoru12/Automatic__Attendence__System/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"Project_Default.xml","displayUrl":"https://github.com/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml?raw=true","headerInfo":{"blobSize":"583 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"2570d99","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fdattasoru12%2FAutomatic__Attendence__System%2Fblob%2Fmain%2FProject_Default.xml","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"15","truncatedSloc":"15"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"XML","languageID":399,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/dattasoru12/Automatic__Attendence__System/blob/main/Project_Default.xml","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/dattasoru12/Automatic__Attendence__System/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/dattasoru12/Automatic__Attendence__System/raw/refs/heads/main/Project_Default.xml","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":true,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"isMarketplaceEnabled":true,"csrf_tokens":{"/dattasoru12/Automatic__Attendence__System/branches":{"post":"wdQhZ49yKH9eFNfoHd7BG0bgw8WRXyWQk-xE_QwzjBRwvcIxDcDpbtBGI3V4v2X5WAiIgN9q3BBuH3jfCNO-8w"},"/repos/preferences":{"post":"qTmRk8kOcnCZQ2x2w08D_f1p8nhTe0kbwwvu4BcFfR4XfOwXlTIYI5cf9hiXSPhTfXHrG_NFoceDTl8DM24B5Q"}}},"title":"Automatic__Attendence__System/Project_Default.xml at main · dattasoru12/Automatic__Attendence__System","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-263cab1760dd.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-41d93d549163.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"accessible_code_button":true}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
