@@ -36,24 +36,20 @@ def load_known_faces():
 
 # Function to log attendance with error handling
 def mark_attendance(name):
-    try:
-        with open(ATTENDANCE_FILE, 'a+') as f:
-            f.seek(0)
-            data = f.readlines()
-            name_list = [line.split(',')[0] for line in data]
-            if name not in name_list:
-                now = datetime.now()
-                dt_string = now.strftime('%Y-%m-%d %H:%M:%S')
-                f.writelines(f'{name},{dt_string}\n')
-                print(f'Attendance marked for {name}')
-            elif not data:  # If file is empty, write header
-                f.write('Name,Time\n')
-    except FileNotFoundError:
-        print(f"Error: The file '{ATTENDANCE_FILE}' was not found.")
-    except PermissionError:
-        print(f"Error: Permission denied to access '{ATTENDANCE_FILE}'. Please check file permissions.")
-    except Exception as e:
-        print(f"An error occurred while marking attendance: {e}")
+
+    file_exists = os.path.isfile(ATTENDANCE_FILE)
+    with open(ATTENDANCE_FILE, 'a+') as f:
+        f.seek(0)
+        data = f.readlines()
+        name_list = [line.split(',')[0] for line in data]
+        if name not in name_list:
+            now = datetime.now()
+            dt_string = now.strftime('%Y-%m-%d %H:%M:%S')
+            f.writelines(f'{name},{dt_string}\n')
+            print(f'Attendance marked for {name}')
+        elif not file_exists:
+        
+            f.write('Name,Time\n')
 
 
 # Function to process each frame
